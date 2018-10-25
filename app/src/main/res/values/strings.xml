@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">Kick Force Metter</string>
+    <string name="app_name">Kick Force Meter</string>
 
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="calibarate_button">Calibrate</string>
+    <string name="status_wait">WAIT</string>
+    <string name="status_go">GO</string>
+    <string name="status_calibrating">CALIBRATING</string>
 </resources>
